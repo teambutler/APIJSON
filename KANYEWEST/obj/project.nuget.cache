@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "odDyJdLLPrPFJI8HFjwa9K+28M34Gw+NAk38m8v3/31oTDn6cftrHDdcWFaXuBNThM4OzKNmg0Fse993UvF9hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\repos\\KANYEWEST\\KANYEWEST\\KANYEWEST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
